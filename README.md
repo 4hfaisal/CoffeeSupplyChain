@@ -3,10 +3,10 @@ The project implements the supply chain smart contract to trace coffee productio
 
 Follwoing are the UML diagrams and the software information
 
-[UML Activity Diagram](./UML/Activity.png)
-[UML Sequence Diagram](./UML/Sequence.png)
-[UML State Diagram](./UML/State.png)
-[UML Class Diagram](./UML/Class.png)
+- [UML Activity Diagram](./UML/Activity.png)
+- [UML Sequence Diagram](./UML/Sequence.png)
+- [UML State Diagram](./UML/State.png)
+- [UML Class Diagram](./UML/Class.png)
 
 ## Software Info
 - Contract address on Sepolia: 0x96CC59D5caCc5d0bB01806d2C67348D722bda5B8
